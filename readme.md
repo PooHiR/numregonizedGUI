@@ -50,11 +50,11 @@ Tensorflow也对应不同版本，请注意！
 
 ## 四、项目展示
 
-![main](.\numregonizedGUI\main.png)
+![image](https://github.com/PooHiR/numregonizedGUI/blob/main/main.png)
 
-![1](.\numregonizedGUI\1.png)
+![image](https://github.com/PooHiR/numregonizedGUI/blob/main/1.png)
 
-![2](.\numregonizedGUI\2.png)
+![image](https://github.com/PooHiR/numregonizedGUI/blob/main/2.png)
 
 
 
