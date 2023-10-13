@@ -1,0 +1,6 @@
+python==3.7
+pyqt5
+tensorflow-gpu==2.7.0
+zipp==3.15.0
+pillow==9.5.0
+keras==2.7.0
