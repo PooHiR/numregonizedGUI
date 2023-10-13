@@ -50,11 +50,11 @@ Tensorflow也对应不同版本，请注意！
 
 ## 四、项目展示
 
-![main](E:\numregonizedGUI\main.png)
+![main](.\numregonizedGUI\main.png)
 
-![1](E:\numregonizedGUI\1.png)
+![1](.\numregonizedGUI\1.png)
 
-![2](E:\numregonizedGUI\2.png)
+![2](.\numregonizedGUI\2.png)
 
 
 
